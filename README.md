@@ -3,6 +3,7 @@
 A simple task management dashboard built with React, Vite and plain CSS.
 
 ## Features
+
 - Add, view, edit and delete tasks
 - Set task priority, due date and status
 - Search tasks by title
